@@ -10,6 +10,10 @@ venv/
 
 # Logs
 logs/
+.env
+__pycache__/
+*.pyc
+.venv/
 
 # VS Code
 .vscode/
